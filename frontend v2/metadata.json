@@ -1,0 +1,5 @@
+{
+  "name": "CivicTrust Platform",
+  "description": "A sophisticated, professional web application simulating a secure, transparent, and user-friendly Blockchain E-Voting platform. The application features distinct user roles, a live blockchain explorer, and a comprehensive admin portal.",
+  "requestFramePermissions": []
+}
